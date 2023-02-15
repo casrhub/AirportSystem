@@ -1,0 +1,4 @@
+
+Payment made for the reservation of flight with flight number: 3 for the amount of $450
+Payment made for the reservation of flight with flight number: 1 for the amount of $120
+Payment made for the reservation of flight with flight number: 1 for the amount of $120
